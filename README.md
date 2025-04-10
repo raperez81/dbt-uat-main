@@ -1,5 +1,5 @@
 
-##Convert "uat" as the default branch instead of "main"
+## Convert "uat" as the default branch instead of "main"
 1. Create the branch "uat".
 2. Go to Settings and change the default branch from "main" to "uat".
 3. Click "Update".
